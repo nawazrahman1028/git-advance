@@ -1,0 +1,15 @@
+mkdir<dir name> create a directory
+cd <dir name>get into that directory
+git init   (to initiate the git)
+git status (to  check status)
+touch <filename>  create a file
+git add .( adding the file to git)
+git commit -m "created a file"
+vi <filename> we can insert the data here
+git add <filename>
+git commit -m <"made changes to file">
+git status
+git checkout -b <branchname> creating new branch
+git remote add origin <new repository url>
+git push -u origin master
+
