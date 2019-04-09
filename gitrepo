@@ -1,0 +1,6 @@
+Git pull  if u want to put your local repo updated everytime.
+Git branch  –a  is used to list all the branches.
+HEAD  is the current commit of the branch.
+Nexus  stores all the different kinds of artifacts.
+Rest API’s (Application programming interface)  is the main hook by which we access to particular social media link from the particular website
+
